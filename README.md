@@ -6,7 +6,7 @@
 ## Контактные данные:
 <a href="https://t.me/anna_smirnovaaaa">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt=Telegram />
-[<img align="left" alt="AnnaSmirnovaa | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yandex.svg" />][yandex]
+ 
 
 ## Инструменты и навыки:
 <img align="left" alt="Python" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
