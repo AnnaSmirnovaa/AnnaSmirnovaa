@@ -1,14 +1,14 @@
-## Привет! Меня зовут Анна Смирнова.
+## Привет! Меня зовут Анна Смирнова.:hatching_chick:
 - Я долгое время работала в банковской и бюджетной сферах. 
 - Успешно закончила курс Аналитик Данных в Яндекс.Практикум.
 -  Хочу развиваться в этой сфере и была бы рад использовать инструменты аналитики, чтобы влиять на качество продукции, эффективность компании и ее прибыль. 
 
-## Контактные данные:
+### Контактные данные:
 <a href="https://t.me/anna_smirnovaaaa">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt=Telegram />
  
 
-## Инструменты и навыки:
+### Инструменты и навыки:
 <img align="left" alt="Python" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Pandas" width="26px" img src="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Plotly__a0a015/Plotly-logo-01-square.png__95275.png" /> 
