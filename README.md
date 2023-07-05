@@ -4,6 +4,7 @@
 
 ## Контактные данные:
 <a href="https://t.me/anna_smirnovaaaa">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt=Telegram />
 
 <!---
 AnnaSmirnovaa/AnnaSmirnovaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
